@@ -1,3 +1,4 @@
+// Shows the hashcode for a user input string
 #include <iostream>
 #include <string>
 #include <unordered_set>
