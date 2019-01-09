@@ -1,4 +1,5 @@
 // Shows the hashcode for a user input string
+// -0 to stop inputting words
 #include <iostream>
 #include <string>
 #include <unordered_set>
